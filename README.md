@@ -3,7 +3,7 @@ This is a PyTorch implementation of our MedAGI(MICCAI 2023 1st International Wor
 
 
 
-### Uncertainty Estimation Method Comparision
+### Uncertainty Estimation Method Comparison
 ![uncertainty](./img/uncertainty_image.png)
 *TTD: Test Time Dropout, TTA: Test Time Augmentation*
 
