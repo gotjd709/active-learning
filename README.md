@@ -1,5 +1,5 @@
 # active-learning
-This is a PyTorch implementation of our MedAGI(MICCAI 2023 1st International Workshop on Foundation Models for General Medical AI) poster [Revisiting Active Learning in Histopathology Segmentation: Representativeness and Cost-Effective Active Learning](https://medagi.github.io/#/program)
+This is a PyTorch implementation of our MedAGI(MICCAI 2023 1st International Workshop on Foundation Models for General Medical AI) poster [Revisiting Active Learning in Histopathology Segmentation: Representativeness and Cost-Effective Active Learning](https://medagi2023.github.io/#/2023/program)
 
 
 
